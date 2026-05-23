@@ -3,62 +3,78 @@ This project is an interactive Sales Performance and Profit Analysis Dashboard d
 
 The project helps businesses monitor key performance indicators (KPIs), identify top and low-performing products, evaluate promotional campaign effectiveness, and compare business performance across different time periods.
 
-**Features:
-**
-City-wise Sales Analysis using map visualization
+# Features:
 
-Sales Trend Analysis (2020–2024)
+(a)City-wise Sales Analysis using map visualization
 
-Profit vs Net Sales Correlation Analysis
+(b)Sales Trend Analysis (2020–2024)
 
-Promotion Category & Discount Analysis
+(c)Profit vs Net Sales Correlation Analysis
 
-Top 5 / Bottom 5 Product Performance Analysis
+(d)Promotion Category & Discount Analysis
 
-Comparative Analysis Between Two Time Periods
+(e)Top 5 / Bottom 5 Product Performance Analysis
 
-Interactive Filters and Drill-Down Functionality
+(f)Comparative Analysis Between Two Time Periods
 
-Transaction-Level Data Table Visualization
+(g)Interactive Filters and Drill-Down Functionality
 
-KPI Metrics for Sales, Profit, Orders, and Quantity Sold
+(h)Transaction-Level Data Table Visualization
 
-**Technologies Used
-**
-Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Excel / CSV Dataset
-Dashboard Insights
-Overview Dashboard
+(i)KPI Metrics for Sales, Profit, Orders, and Quantity Sold
+
+# Technologies Used
+
+(a)Power BI
+
+(b)Power Query
+
+(c)DAX (Data Analysis Expressions)
+
+(d)Data Modeling
+
+(e)Excel / CSV Dataset
+
+(f)Dashboard Insights
+
+(h)Overview Dashboard
 Tracks total orders, sales trends, city-wise sales distribution, and profit vs sales relationship.
 Product Performance Dashboard
 
-**Identifies top-performing and low-performing products based on:
-**
-Sales
-Profit
-Quantity Sold
-Comparative Analysis Dashboard
-Compares sales, profit, and quantity metrics between two selected date ranges.
-Detailed Transaction Dashboard
+# Identifies top-performing and low-performing products based on:
 
-**Provides row-level sales details including:
-**
-Customer ID
-Product ID
-Discount %
-Net Sales
-Profit
-Units Sold
+(a)Sales
 
-**Business Impact:
-**
-Improved visibility into product and sales performance.
+(b)Profit
 
-Helped identify low-performing products and ineffective promotions.
+(c)Quantity Sold
 
-Enabled better decision-making through interactive visual analytics.
+(d)Comparative Analysis Dashboard
 
-Simplified sales trend tracking and comparative performance analysis.
+(e)Compares sales, profit, and quantity metrics between two selected date ranges.
+
+(f)Detailed Transaction Dashboard
+
+# Provides row-level sales details including:
+
+(a)Customer ID
+
+(b)Product ID
+
+(c)Discount %
+
+(d)Net Sales
+
+(e)Profit
+
+(f)Units Sold
+
+# Business Impact:
+
+(a)Improved visibility into product and sales performance.
+
+(b)Helped identify low-performing products and ineffective promotions.
+
+(c)Enabled better decision-making through interactive visual analytics.
+
+(d)Simplified sales trend tracking and comparative performance analysis.
