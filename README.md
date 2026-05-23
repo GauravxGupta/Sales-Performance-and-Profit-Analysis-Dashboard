@@ -1,80 +1,42 @@
 # Sales-Performance-and-Profit-Analysis-Dashboard
-This project is an interactive Sales Performance and Profit Analysis Dashboard developed using Power BI. The dashboard provides detailed insights into business performance by analyzing sales, profit, discounts, promotions, product performance, and customer purchasing trends.
 
-The project helps businesses monitor key performance indicators (KPIs), identify top and low-performing products, evaluate promotional campaign effectiveness, and compare business performance across different time periods.
+This Power BI project provides a comprehensive, multi-page business intelligence solution designed to analyze sales performance, profitability trends, product rankings, and promotional effectiveness for a nationwide consumer retail portfolio. 
 
-# Features:
+By modeling transactional records, the dashboard empowers sales operations and management teams to instantly pinpoint top revenue-generating products, discover regional trends across India, and conduct flexible, side-by-side historical sales comparisons.
 
-(a)City-wise Sales Analysis using map visualization
+---
 
-(b)Sales Trend Analysis (2020–2024)
+##  Core Pages & Analytics Features
 
-(c)Profit vs Net Sales Correlation Analysis
+### 1. Executive Sales Overview
+* **KPI Monitoring:** Keeps a pulse on vital business health indicators: **Total Sales ($122M)**, **Total Profit ($12.2M)**, and **Total Quantity Sold (7.1K units)** across **3,510 total orders**.
+* **Geographic Breakdown:** Uses an interactive map layout to visualize regional sales performance across key urban hubs (Delhi, Mumbai, Bangalore, Chennai, etc.).
+* **Profit vs. Net Sales Correlation:** Features a scatter plot analysis demonstrating a direct, linear relationship between higher value sales tiers and overall bottom-line margin.
+* **Promotion Effectiveness:** A horizontal distribution bar chart mapping total discounts absorbed by specific promotional categories (e.g., Weekend, Clearance, Summer promos).
 
-(d)Promotion Category & Discount Analysis
+### 2. Top / Bottom 5 Deep-Dive
+* **Product Rankings:** Ranks inventory assets using three critical business lenses: **Total Revenue**, **Volume/Quantity Sold**, and **Net Profitability**.
+* **Key Findings:** * Premium electronics serve as primary anchors—the *Apple iPhone 14* alone led performance with **$21.4M in sales** and **$2.14M in profit**.
+  * Low-margin consumer staples (e.g., toothpaste, soaps) are flagged at the bottom tiers to signal potential stock bundling or pricing revision opportunities.
 
-(e)Top 5 / Bottom 5 Product Performance Analysis
+### 3. Dynamic Period Comparison
+* **Dual Date Slicers:** Implements independent date parameters allowing users to evaluate performance anomalies between two entirely different custom timeframes side-by-side.
 
-(f)Comparative Analysis Between Two Time Periods
+### 4. Transaction Ledger
+* **Granular Audit Trail:** Houses a clean tabular data matrix for flat-file exploration, exposing Customer IDs, Order IDs, accurate unit prices, promotional code impacts, and net sales per item.
 
-(g)Interactive Filters and Drill-Down Functionality
+---
 
-(h)Transaction-Level Data Table Visualization
+## Technical Stack & Data Model
+* **BI Platform:** Power BI Desktop
+* **Data Modeling:** Star Schema architecture utilizing relational dimension tables linked to core transaction fact tables.
+* **Storage Mode:** Import Mode (Optimized for fast in-memory DAX calculations and swift visualization interactions).
+* **Advanced DAX Concepts:** Used to handle custom time-intelligence comparison logic and custom top/bottom product rankings.
 
-(i)KPI Metrics for Sales, Profit, Orders, and Quantity Sold
+---
 
-# Technologies Used
+##  How to Navigate the Dashboard
+1. **To audit products:** Head over to the `Top/Bottom 5 Analysis` tab to immediately identify items keeping your margins afloat vs. items costing warehouse space.
+2. **To run time-period comparisons:** Navigate to the comparison tabs, adjust `Date Filter 1` and `Date Filter 2` to your target quarters/years, and observe variations instantly across the dual bar charts.(b)Helped identify low-performing products and ineffective promotions.
 
-(a)Power BI
 
-(b)Power Query
-
-(c)DAX (Data Analysis Expressions)
-
-(d)Data Modeling
-
-(e)Excel / CSV Dataset
-
-(f)Dashboard Insights
-
-(h)Overview Dashboard
-Tracks total orders, sales trends, city-wise sales distribution, and profit vs sales relationship.
-Product Performance Dashboard
-
-# Identifies top-performing and low-performing products based on:
-
-(a)Sales
-
-(b)Profit
-
-(c)Quantity Sold
-
-(d)Comparative Analysis Dashboard
-
-(e)Compares sales, profit, and quantity metrics between two selected date ranges.
-
-(f)Detailed Transaction Dashboard
-
-# Provides row-level sales details including:
-
-(a)Customer ID
-
-(b)Product ID
-
-(c)Discount %
-
-(d)Net Sales
-
-(e)Profit
-
-(f)Units Sold
-
-# Business Impact:
-
-(a)Improved visibility into product and sales performance.
-
-(b)Helped identify low-performing products and ineffective promotions.
-
-(c)Enabled better decision-making through interactive visual analytics.
-
-(d)Simplified sales trend tracking and comparative performance analysis.
