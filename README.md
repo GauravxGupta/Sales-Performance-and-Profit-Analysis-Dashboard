@@ -39,12 +39,6 @@ By modeling transactional records, the dashboard empowers sales operations and m
 1. **To audit products:** Head over to the `Top/Bottom 5 Analysis` tab to immediately identify items keeping your margins afloat vs. items costing warehouse space.
 2. **To run time-period comparisons:** Navigate to the comparison tabs, adjust `Date Filter 1` and `Date Filter 2` to your target quarters/years, and observe variations instantly across the dual bar charts.(b)Helped identify low-performing products and ineffective promotions.
 
-<img width="1276" height="709" alt="Screenshot 2026-05-25 185255" src="https://github.com/user-attachments/assets/aa45e0e7-1338-4652-b17e-b3390c4bdeb5" />
-<img width="1272" height="714" alt="Screenshot 2026-05-25 185321" src="https://github.com/user-attachments/assets/55f0074a-f1d8-4fd4-8697-ccd8449a58cb" />
-<img width="1291" height="716" alt="Screenshot 2026-05-25 185337" src="https://github.com/user-attachments/assets/517312e6-8864-4734-947d-776d0ba2043b" />
-<img width="1304" height="713" alt="Screenshot 2026-05-25 185353" src="https://github.com/user-attachments/assets/15378e17-ae74-4d52-ad91-29576843906e" />
-<img width="1265" height="703" alt="Screenshot 2026-05-25 185427" src="https://github.com/user-attachments/assets/0418ce50-c18c-4b23-9b21-51ff11610f0a" />
-
 
 
 
